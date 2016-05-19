@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ShowNotification">Click to Show Notification</string>
-    <string name="ApplicationName">LocalNotificationApp</string>
+    <string name="ApplicationName">Local Notification App</string>
 </resources>
